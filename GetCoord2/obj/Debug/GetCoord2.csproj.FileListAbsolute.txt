@@ -1,0 +1,12 @@
+C:\Users\qt\Desktop\DTIN\GetCoord2\bin\Debug\GetCoord2.exe.config
+C:\Users\qt\Desktop\DTIN\GetCoord2\obj\Debug\GetCoord2.csprojResolveAssemblyReference.cache
+C:\Users\qt\Desktop\DTIN\GetCoord2\obj\Debug\GetCoord2.Form1.resources
+C:\Users\qt\Desktop\DTIN\GetCoord2\obj\Debug\GetCoord2.Properties.Resources.resources
+C:\Users\qt\Desktop\DTIN\GetCoord2\obj\Debug\GetCoord2.csproj.GenerateResource.Cache
+C:\Users\qt\Desktop\DTIN\GetCoord2\bin\Debug\GetCoord2.exe
+C:\Users\qt\Desktop\DTIN\GetCoord2\bin\Debug\GetCoord2.pdb
+C:\Users\qt\Desktop\DTIN\GetCoord2\obj\Debug\GetCoord2.exe
+C:\Users\qt\Desktop\DTIN\GetCoord2\obj\Debug\GetCoord2.pdb
+D:\code\独立空间坐标定位工具\GetCoord2\bin\Debug\GetCoord2.exe.config
+D:\code\独立空间坐标定位工具\GetCoord2\obj\Debug\GetCoord2.exe
+D:\code\独立空间坐标定位工具\GetCoord2\obj\Debug\GetCoord2.pdb

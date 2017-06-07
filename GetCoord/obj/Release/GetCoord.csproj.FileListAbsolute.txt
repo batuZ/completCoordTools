@@ -1,0 +1,9 @@
+C:\Users\qt\Desktop\DTIN\GetCoord\bin\Release\GetCoord.exe.config
+C:\Users\qt\Desktop\DTIN\GetCoord\bin\Release\GetCoord.exe
+C:\Users\qt\Desktop\DTIN\GetCoord\bin\Release\GetCoord.pdb
+C:\Users\qt\Desktop\DTIN\GetCoord\obj\Release\GetCoord.csprojResolveAssemblyReference.cache
+C:\Users\qt\Desktop\DTIN\GetCoord\obj\Release\GetCoord.Form1.resources
+C:\Users\qt\Desktop\DTIN\GetCoord\obj\Release\GetCoord.Properties.Resources.resources
+C:\Users\qt\Desktop\DTIN\GetCoord\obj\Release\GetCoord.csproj.GenerateResource.Cache
+C:\Users\qt\Desktop\DTIN\GetCoord\obj\Release\GetCoord.exe
+C:\Users\qt\Desktop\DTIN\GetCoord\obj\Release\GetCoord.pdb

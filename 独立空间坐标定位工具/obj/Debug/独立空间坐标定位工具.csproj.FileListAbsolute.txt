@@ -1,0 +1,10 @@
+D:\code\独立空间坐标定位工具\独立空间坐标定位工具\bin\Debug\独立空间坐标定位工具.exe.config
+D:\code\独立空间坐标定位工具\独立空间坐标定位工具\obj\Debug\独立空间坐标定位工具.Form1.resources
+D:\code\独立空间坐标定位工具\独立空间坐标定位工具\obj\Debug\独立空间坐标定位工具.Properties.Resources.resources
+D:\code\独立空间坐标定位工具\独立空间坐标定位工具\obj\Debug\独立空间坐标定位工具.csproj.GenerateResource.Cache
+D:\code\独立空间坐标定位工具\独立空间坐标定位工具\obj\Debug\独立空间坐标定位工具.csprojResolveAssemblyReference.cache
+D:\code\独立空间坐标定位工具\独立空间坐标定位工具\bin\Debug\独立空间坐标定位工具.exe
+D:\code\独立空间坐标定位工具\独立空间坐标定位工具\bin\Debug\独立空间坐标定位工具.pdb
+D:\code\独立空间坐标定位工具\独立空间坐标定位工具\obj\Debug\独立空间坐标定位工具.exe
+D:\code\独立空间坐标定位工具\独立空间坐标定位工具\obj\Debug\独立空间坐标定位工具.pdb
+D:\code\独立空间坐标定位工具\独立空间坐标定位工具\obj\Debug\独立空间坐标定位工具.InPutNumbers.resources
